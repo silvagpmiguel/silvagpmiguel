@@ -1,16 +1,20 @@
-### Hi there 👋
+### My Config 📌
 
-<!--
-**silvagpmiguel/silvagpmiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+# Name 
+git config --global user.name "Miguel Silva"
 
-Here are some ideas to get you started:
+# Email
+git config --global user.email "silva.gp.miguel@gmail.com"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Core Editor
+git config --global core.editor "vim"
+
+# Rebase Editor
+git config --global sequence.editor "code --wait --reuse-window"
+```
+
+<a href="https://lon9.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=silvagpmiguel&count_private=true&show_icons=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvagpmiguel&theme=dark&hide=html" />
+</a>
