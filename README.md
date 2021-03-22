@@ -1,4 +1,4 @@
-### My Config 📌
+## Configuration 📌
 
 ```bash
 # Name 
@@ -15,6 +15,9 @@ git config --global sequence.editor "code --wait --reuse-window"
 ```
 
 <a href="https://lon9.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=silvagpmiguel&count_private=true&show_icons=true&theme=dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvagpmiguel&theme=dark&hide=html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=silvagpmiguel&count_private=true&show_icons=true&theme=dark" />
 </a>
+<a href="https://lon9.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvagpmiguel&theme=dark&hide=html" />
+</a>
+
